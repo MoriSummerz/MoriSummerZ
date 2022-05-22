@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there
 <img src="https://c.tenor.com/XMvXpoXRgIUAAAAi/anko-kitashirakawa-tamako-market.gif" /> <br />
+---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoriSummerZ&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=morisummerz&show_icons=true&theme=tokyonight&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=morisummerz&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
 **MoriSummerz/MoriSummerZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
